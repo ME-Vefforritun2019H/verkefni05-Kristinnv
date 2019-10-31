@@ -1,5 +1,5 @@
 # vfor1Verk05
-
+````
 
 1.      Búið til HTML skjal og gefið því titilinn "Tables"
 2.      Setjið upp table tagg til að búa til töflu
